@@ -1,11 +1,15 @@
 /*tableauViz*/
 
-.wind-price {
+.language1 {
+  width: 50%;
+}
+
+.language2{
   width: 80%;
 }
 
-.wind-capacity {
-  width: 40%;
+.map {
+  width: 50%;
 }
 
 .source {
@@ -13,6 +17,7 @@
   font-style: italic;
   font-family: sans-serif;
   color: grey;
+
 }
 
 p {
@@ -31,10 +36,15 @@ h1 {
   padding-right: 300px;
 }
 
-#story-title {
+.story-title {
   font-size: 28px;
   padding-left: 250px;
   padding-right: 250px;
+  text-align: center;
+}
+
+#story-title {
+  font-size: 24px;
   text-align: center;
 }
 
